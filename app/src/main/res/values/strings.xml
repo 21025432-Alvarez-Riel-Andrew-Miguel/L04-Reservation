@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="r">Reservation</string>
+    <string name="name">Name</string>
+    <string name="num">Mobile Number</string>
+    <string name="size">Size of Group</string>
+    <string name="selDate">Select date to reserve</string>
+    <string name="selTime">Select time to reserve</string>
+    <string name="qn">Would you like to dine in a smoking area?</string>
+    <string name="confirm">Confirm</string>
+    <string name="clear">Clear</string>
+
+</resources>
